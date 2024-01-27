@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+<name>Baby Hater Traits</name>
+    <author>MirrorHall_Clay</author> 
+    <packageId>mhClay.BabyHaterTraits</packageId>
+    <description>Adds traits that affect relationships between adolescent and adult pawns.</description>
+    <supportedVersions>
+     <li>1.4</li>
+    </supportedVersions>
+</ModMetaData>
